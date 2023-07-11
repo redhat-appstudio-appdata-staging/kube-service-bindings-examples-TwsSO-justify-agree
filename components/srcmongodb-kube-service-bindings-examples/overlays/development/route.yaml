@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: srcmongodb-kube-service-bindings-examples
     app.kubernetes.io/part-of: kube-service-bindings-examples
-  name: srcmongodb-kube-service-bwmbo
+  name: srcmongodb-kube-service-beasq
 spec:
   path: /
   port:
